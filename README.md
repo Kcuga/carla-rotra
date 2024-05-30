@@ -24,5 +24,4 @@ Once you have set up the prerequisites and followed the getting started steps, y
 
 ---
 
-## Screencast
 [Screencast](https://youtu.be/a7s-8kEdIqQ?si=xOGceW4OwLwQp0SV)
